@@ -142,9 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ListNode.h" />
     <ClInclude Include="Node.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ListNode.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Node.cpp" />
   </ItemGroup>

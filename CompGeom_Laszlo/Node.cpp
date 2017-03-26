@@ -48,7 +48,6 @@ void Node::Splice(Node* b)
 	b->_next = an;
 	an->_prev = b;
 	bn->_prev = a;
-	// закончил на стрнице 47
 }
 
 void Node::Print()
