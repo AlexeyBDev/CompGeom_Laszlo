@@ -1,7 +1,8 @@
 #ifndef LISTNODE_H
 #define LISTNODE_H
 
-#include "Node.h"
+//#include "Node.h"
+//#include "List.h"
 
 template <class T> class ListNode : public Node
 {
